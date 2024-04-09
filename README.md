@@ -16,7 +16,7 @@ Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience/tree
 | [American Epilepsy Society Predoctoral Research Fellowship](https://cms.aesnet.org/research-funding/funding/early-career/predoctoral-research-fellowships) | January | Everyone | | |
 | [Harold Gulliksen Psychometric Research Fellowship](https://www.ets.org/research/internship-fellowship/about/harold-gulliksen.html) | January | Everyone | | |
 | [IBM PhD Fellowship Program](https://research.ibm.com/university/awards/fellowships.html) | | | | ||
-| [QUAD Fellowship]|(https://www.quadfellowship.org/) | April | Quad Countries [^1]   | |
+| [QUAD Fellowship](https://www.quadfellowship.org/) | April | Quad Countries [^1]   | ||
 | [Wings for Life Spinal Cord Research Fellowship](https://www.wingsforlife.com/uk/research/application/#format-1)| September | | | |
 | [The NVIDIA Graduate Fellowship](https://research.nvidia.com/graduate-fellowships)| September | Everyone | | |
 | [The Meta Fellowship](https://research.facebook.com/fellows/)|N/A |Everyone | | |
