@@ -6,11 +6,11 @@ This format was inspired by [Awesome Computational
 Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience/tree/master). Thank you. 
 
 ## Contents
-- [Grants open to some/most/all international students](#international)
-- [Grants open only to US citizens and permanent residents](#us-citizen)
-- [Supplemental & Travel Grants](#supplemental)
-- [Summer Programs](#summer-program)
-- [Science Policy Fellowships](#science-policy)
+- [Grants open to some/most/all international students](#grants-open-to-some/most/all-international-students)
+- [Grants open only to US citizens and permanent residents](#grants-open-only-to-us-citizens-and-permanent-residents)
+- [Supplemental & Travel Grants](#supplemental-&-travel-grants)
+- [Summer Programs](#summer-programs)
+- [Science Policy Fellowships](#science-policy-fellowship)
 - [Professional Development](#professional-development)
 
 ## Grants open to some/most/all international students 
