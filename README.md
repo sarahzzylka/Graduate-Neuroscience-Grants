@@ -5,7 +5,15 @@ For contributing to this collection please read the [contribution guidelines](co
 This format was inspired by [Awesome Computational
 Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience/tree/master). Thank you. 
 
-### Grants open to some/most/all international students 
+## Contents
+- [Grants open to some/most/all international students](#international)
+- [Grants open only to US citizens and permanent residents](#us-citizen)
+- [Supplemental & Travel Grants](#supplemental)
+- [Summer Programs](#summer-program)
+- [Science Policy Fellowships](#science-policy)
+- [Professional Development](#professional-development)
+
+## Grants open to some/most/all international students 
 ---
 | Fellowship Name                                                                                                                                                                                   | Deadline[^*]               | Citizenship Requirements   | Eligibility                                                                                                                  | Details                                                                                                        |                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ----------------------- |
@@ -38,7 +46,7 @@ Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience/tree
 
 ---
 
-### Grants open only to US citizens and permanent residents
+## Grants open only to US citizens and permanent residents
 ---
 
 
@@ -65,7 +73,7 @@ Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience/tree
 |[Porter Physiology Development Fellowship](https://www.physiology.org/professional-development/awards/trainees/porter_fellowship?SSO=Y)|January | US Citizens & Permenant Residents| Graduate Student, URM|$28,300|
   
 ---
-### Supplemental & Travel Grants
+## Supplemental & Travel Grants
 ---
 
 | Fellowship Name | Deadline[^*]| Citizenship Requirements | Eligibility | Details |
@@ -83,7 +91,7 @@ Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience/tree
 |[Central Nervous System Section Van Harreveld Memorial Award](https://www.physiology.org/professional-development/awards/researchers/cns-section-van-harreveld-memorial)|November|Everyone | current APS member |$500 travel reimbursement for Annual Meeting|
 
 ---
-### Summer Programs
+## Summer Programs
 ---
 
 | Fellowship Name | Deadline[^*]| Citdizenship Requirements | Eligibility | Details |
@@ -94,7 +102,7 @@ Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience/tree
 | [Grass Fellowship in Neuroscience](https://grassfoundation.org/fellowship-overview/)| December | Everyone with Visa Permission to Work in US  |Late Stage Predoctoral & Postdoctoral | 14 Weeks, [Details](https://grassfoundation.org/faq/#fellowship-details)|
 
 ---
-#####  Science Policy Fellowships
+## Science Policy Fellowships
 ---
 
 | Fellowship Name | Deadline[^*]| Citizenship Requirements | Eligibility | Details|
@@ -108,7 +116,7 @@ Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience/tree
 
 
 ---
-### Professional Development 
+## Professional Development 
 ---
 | Fellowship Name | Deadline[^*]| Citizenship Requirements | Eligibility | Details |
 | ------------------ | -------- | ---------------------------- | ----------- | ------- |
