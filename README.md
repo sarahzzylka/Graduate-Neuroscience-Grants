@@ -13,9 +13,10 @@ Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience/tree
 - [Science Policy Fellowships](#science-policy-fellowship)
 - [Professional Development](#professional-development)
 
-<a name="international"/>
+<a id="international"></a>
 ## Grants open to some/most/all international students 
 ---
+
 | Fellowship Name                                                                                                                                                                                   | Deadline[^*]               | Citizenship Requirements   | Eligibility                                                                                                                  | Details                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | 
 | [Paul & Daisy Soros Fellowship for New Americans](https://www.pdsoros.org/apply/online-application)                                                                                               | Mid October                | Everyone                   | [New American Status](https://www.pdsoros.org/apply/eligibility), under 30yo                                                 | Up to 90K over 2 years                                                                                         |                         |
