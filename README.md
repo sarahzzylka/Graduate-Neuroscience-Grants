@@ -6,16 +6,16 @@ This format was inspired by [Awesome Computational
 Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience/tree/master). Thank you. 
 
 ## Contents
+<a id="content"></a>
 - [Grants open to some/most/all international students](#international)
-- [Grants open only to US citizens and permanent residents](#grants-open-only-to-us-citizens-and-permanent-residents)
-- [Supplemental & Travel Grants](#supplemental-&-travel-grants)
-- [Summer Programs](#summer-programs)
-- [Science Policy Fellowships](#science-policy-fellowship)
-- [Professional Development](#professional-development)
+- [Grants open only to US citizens and permanent residents](#us_pr)
+- [Supplemental & Travel Grants](#sup_travel)
+- [Summer Programs](#summer_progs)
+- [Science Policy Fellowships](#science_policy)
+- [Professional Development](#prof_dev)
 
 <a id="international"></a>
 ## Grants open to some/most/all international students 
----
 
 | Fellowship Name                                                                                                                                                                                   | Deadline[^*]               | Citizenship Requirements   | Eligibility                                                                                                                  | Details                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | 
@@ -47,9 +47,8 @@ Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience/tree
   
 
 ---
-
-## Grants open only to US citizens and permanent residents
----
+<a id="us_pr"></a>
+## Grants open only to US citizens and permanent residents [↑](#content)
 
 
 | Fellowship Name | Deadline[^*]| Citizenship Requirements | Eligibility | Details |
@@ -75,8 +74,10 @@ Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience/tree
 |[Porter Physiology Development Fellowship](https://www.physiology.org/professional-development/awards/trainees/porter_fellowship?SSO=Y)|January | US Citizens & Permenant Residents| Graduate Student, URM|$28,300|
   
 ---
-## Supplemental & Travel Grants
----
+
+<a id="sup_travel"></a>
+## Supplemental & Travel Grants [↑](#content)
+
 
 | Fellowship Name | Deadline[^*]| Citizenship Requirements | Eligibility | Details |
 | --------------- | -------- | ------------------------ | ----------- | ------- |
@@ -93,8 +94,9 @@ Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience/tree
 |[Central Nervous System Section Van Harreveld Memorial Award](https://www.physiology.org/professional-development/awards/researchers/cns-section-van-harreveld-memorial)|November|Everyone | current APS member |$500 travel reimbursement for Annual Meeting|
 
 ---
-## Summer Programs
----
+
+<a id="summer_progs"></a>
+## Summer Programs [↑](#content)
 
 | Fellowship Name | Deadline[^*]| Citdizenship Requirements | Eligibility | Details |
 | --------------- | -------- | ------------------------ | ----------- | ------- |
@@ -104,22 +106,25 @@ Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience/tree
 | [Grass Fellowship in Neuroscience](https://grassfoundation.org/fellowship-overview/)| December | Everyone with Visa Permission to Work in US  |Late Stage Predoctoral & Postdoctoral | 14 Weeks, [Details](https://grassfoundation.org/faq/#fellowship-details)|
 
 ---
-## Science Policy Fellowships
----
+
+<a id="science_policy"></a>
+## Science Policy Fellowships [↑](#content)
 
 | Fellowship Name | Deadline[^*]| Citizenship Requirements | Eligibility | Details|
 | ------------------| ------------ | ----------------------- | ---------------------------- | ------------------------------ |
 |[ AAAS Science & Technology Policy Fellowships](https://fellowshipapp.aaas.org/app/main/) |  November |  US Citizenship | [Criterea](https://fellowshipapp.aaas.org/app/main/page/eligibility#who%20is%20eligible) | [$94,000-122,000](https://www.aaas.org/programs/science-technology-policy-fellowships/become-fellow-stipend-and-support?adobe_mc=MCMID%3D04809442169205097293118251489076242092%7CMCORGID%3D242B6472541199F70A4C98A6%2540AdobeOrg%7CTS%3D1713228643) |
 |[ ASPET Washington Fellows Program](https://www.aspet.org/aspet/advocacy/aspet-washington-fellows-program)| October| Enrolled in US institution  | |  |
-|[National Academies of Sciences Graduate Fellowship](https://www.nationalacademies.org/our-work/the-christine-mirzayan-science--technology-policy-graduate-fellowship-program) | October| Everyone with Visa Permission to Work| $11,000 stipend for 12 Weeks in Washington DC |
+|[National Academies of Sciences Graduate Fellowship](https://www.nationalacademies.org/our-work/the-christine-mirzayan-science--technology-policy-graduate-fellowship-program) | October| Everyone with Visa Permission to Work| | $11,000 stipend for 12 Weeks in Washington DC |
 |[ Presidential Management Fellowship](https://www.pmf.gov/)|[Application Timeline](https://www.pmf.gov/become-a-pmf/2025-application/) | US Citizens | [Criterea](https://www.pmf.gov/become-a-pmf/eligibility/) |[Program Details](https://www.pmf.gov/current-pmfs/owning-your-experience/) |
 |[ Research!America Summer Science Policy Internship](https://www.researchamerica.org/science-policy-fellowship/)| Not Announced | US Work permission | | Currently Unavailable|
 |[ SFN Early Career Policy Ambassadors](https://www.sfn.org/advocacy/us-advocacy-programs/early-career-policy-ambassadors)| April | US Work Permission| |[ Program Details](https://www.sfn.org/advocacy/us-advocacy-programs/early-career-policy-ambassadors) ||
 
 
 ---
-## Professional Development 
----
+
+<a id="prof_dev"></a>
+## Professional Development [↑](#content)
+
 | Fellowship Name | Deadline[^*]| Citizenship Requirements | Eligibility | Details |
 | ------------------ | -------- | ---------------------------- | ----------- | ------- |
 |[American Association of University Women](https://www.aauw.org/)| | | | |
@@ -128,7 +133,7 @@ Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience/tree
 
 
 
-
+--- 
 [^*]: Deadlines are based on previous year's submissions dates. Please check the links to verify.
 
 [^1]: Australia, India, Japan, United States, [ASEAN countries](https://asean.org/member-states/)
